@@ -5,8 +5,9 @@
 
 ### info:
 - my fav linux distros are gentoo, arch and lfs.
-- i like games like minecraft, osu, roblox.
-- also am gymbro.
+- playing minecraft is really relaxing.
+- i like to play guitar.
+- gym is my way.
 ### langs:
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)](https://wikipedia.org/wiki/C++)
 [![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
