@@ -10,5 +10,5 @@
 - gym is my way.
 ### langs:
 [![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C)](https://wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)](https://wikipedia.org/wiki/C++)
+[![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=C++)](https://wikipedia.org/wiki/C++)
 [![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
