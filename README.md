@@ -6,7 +6,6 @@
 ### info:
 - my fav linux distros are gentoo, arch and lfs.
 - playing minecraft is really relaxing.
-- i like to play guitar.
 - gym is my way.
 ### langs:
 [![C](https://img.shields.io/badge/-C-202020?style=for-the-badge&logo=C)](https://wikipedia.org/wiki/C_(programming_language))
