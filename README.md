@@ -1,6 +1,6 @@
 # hi, i'm [riotoff](https://t.me/riotoff).
 
-[![](https://komarev.com/ghpvc/?username=RIOTOFF&logo=github&style=for-the-badge&color=000000)](https://github.com/RiotOff)
+[![](https://komarev.com/ghpvc/?username=RIOTOFF&logo=github&style=for-the-badge&color=202020)](https://github.com/RiotOff)
 <br />
 
 ### info:
