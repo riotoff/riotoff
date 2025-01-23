@@ -14,4 +14,9 @@
 [![Assembly](https://img.shields.io/badge/-Assembly-202020?style=for-the-badge&logo=Assembly)](https://wikipedia.org/wiki/Assembly_language)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
