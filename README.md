@@ -16,7 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      1 hr 1 min      ███████████░░░░░░░░░░░░░░   44.34 %
+C          1 hr 1 min      ███████████░░░░░░░░░░░░░░   44.19 %
+Assembly   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Makefile   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
