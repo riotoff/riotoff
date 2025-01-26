@@ -5,6 +5,7 @@
 
 ### info:
 - my fav linux distros are gentoo, arch and lfs.
+- i'm currently working at my kernel 'toffus', programming language 'xlang', game engine 'real engine' and messenger 'chatting'.
 - playing guitar is really relaxing.
 - gym is my way.
 ### langs:
