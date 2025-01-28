@@ -9,10 +9,10 @@
 - playing guitar is really relaxing.
 - gym is my way.
 ### langs:
-[![C](https://img.shields.io/badge/-C-202020?style=for-the-badge&logo=C)](https://wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/-C++-202020?style=for-the-badge&logo=Cplusplus)](https://wikipedia.org/wiki/C++)
-[![C#](https://img.shields.io/badge/-CSharp-202020?style=for-the-badge&logo=CSharp)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
-[![Assembly](https://img.shields.io/badge/-Assembly-202020?style=for-the-badge&logo=Assembly)](https://wikipedia.org/wiki/Assembly_language)
+[![C](https://img.shields.io/badge/-C-202020?style=for-the-badge)](https://wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-202020?style=for-the-badge)](https://wikipedia.org/wiki/C++)
+[![C#](https://img.shields.io/badge/-CSharp-202020?style=for-the-badge)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
+[![Assembly](https://img.shields.io/badge/-Assembly-202020?style=for-the-badge)](https://wikipedia.org/wiki/Assembly_language)
 
 <!--START_SECTION:waka-->
 
