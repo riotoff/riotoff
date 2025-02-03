@@ -5,7 +5,7 @@
 
 ### info:
 - my fav linux distros are gentoo, arch and lfs.
-- i'm currently working at my kernel "toffus".
+- i'm currently working at my operating system.
 - playing guitar is really relaxing.
 - gym is my way.
 ### langs:
