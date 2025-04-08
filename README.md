@@ -8,6 +8,7 @@
 - i'm currently working at my operating system.
 - playing guitar is really relaxing.
 - gym is my way.
+- i love Christ.
 ### langs:
 [![C](https://img.shields.io/badge/-C-202020?style=for-the-badge)](https://wikipedia.org/wiki/C_(programming_language))
 [![Assembly](https://img.shields.io/badge/-Assembly-202020?style=for-the-badge)](https://wikipedia.org/wiki/Assembly_language)
