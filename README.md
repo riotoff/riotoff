@@ -12,11 +12,3 @@
 ### langs:
 [![C](https://img.shields.io/badge/-C-202020?style=for-the-badge)](https://wikipedia.org/wiki/C_(programming_language))
 [![Assembly](https://img.shields.io/badge/-Assembly-202020?style=for-the-badge)](https://wikipedia.org/wiki/Assembly_language)
-
-<!--START_SECTION:waka-->
-
-```txt
-C   0 secs          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
