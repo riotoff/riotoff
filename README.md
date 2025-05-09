@@ -5,7 +5,7 @@
 
 ### info:
 - my fav linux distros are gentoo, arch and lfs.
-- i'm currently working at my operating system.
+- i make my own processor.
 - playing guitar is really relaxing.
 - gym is my way.
 - i love Christ.
