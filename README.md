@@ -1,14 +1,18 @@
-# hi, i'm [riotoff](https://t.me/weirdguy455).
+```
+lfetch                                   bob@arch
+                 .o+`                    --------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: A320M-S2H
+              -+oooooo+:                 Shell: bash
+           `/++++/+++++++:               WM: bspwm (X11)
+         `/+++ooooooooooooo/`            Terminal: alacritty
+       .oossssso-````/ossssss+`          CPU: AMD Ryzen 3 2200G (4) @ 3.50 GHz
+      -osssssso.      :ssssssso.         GPU: AMD Radeon Vega 8 Graphics [Integrated]
+     :osssssss/        osssso+++.        RAM: 16 (14.58) GiB
+    /ossssssss/        +ssssooo/-        Locale: ru_RU
+  `/ossssso+/:-        -:/+osssso+-      Langs: C, Netwide Assembly
+ `+sso+:-`                 `.-/+oso:     Games: Minecraft, Geometry Dash
+`++:.                           `-/+/    Projects: lc16x / lazy core 16x
+.`                                 `/              (lazyvm + lazyos)
 
-[![](https://komarev.com/ghpvc/?username=RIOTOFF&logo=github&style=for-the-badge&color=202020)](https://github.com/RiotOff)
-<br />
-
-### info:
-- my fav linux distros are gentoo, arch and lfs
-- i like playing guitar
-- im gym goer
-- i love Jesus
-  
-### langs:
-[![C](https://img.shields.io/badge/-C-202020?style=for-the-badge)](https://wikipedia.org/wiki/C_(programming_language))
-[![Assembly](https://img.shields.io/badge/-Assembly-202020?style=for-the-badge)](https://wikipedia.org/wiki/Assembly_language)
+```
