@@ -14,5 +14,4 @@ lfetch                                   bob@arch
  `+sso+:-`                 `.-/+oso:     Games: Minecraft, Geometry Dash
 `++:.                           `-/+/    Projects: lc16x / lazy core 16x
 .`                                 `/              (lazyvm + lazyos)
-
 ```
