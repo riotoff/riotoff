@@ -2,7 +2,7 @@
 lfetch                                   bob@arch
                  .o+`                    --------
                 `ooo/                    OS: Arch Linux x86_64
-               `+oooo:                   Host: A320M-S2H
+               `+oooo:`                  Host: A320M-S2H
               -+oooooo+:                 Shell: bash
            `/++++/+++++++:               WM: bspwm (X11)
          `/+++ooooooooooooo/`            Terminal: alacritty
