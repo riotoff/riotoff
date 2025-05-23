@@ -12,6 +12,6 @@ lfetch                                   bob@arch
     /ossssssss/        +ssssooo/-        Locale: ru_RU
   `/ossssso+/:-        -:/+osssso+-      Langs: C, Netwide Assembly
  `+sso+:-`                 `.-/+oso:     Games: Minecraft, Geometry Dash
-`++:.                           `-/+/    Projects: lVM (lazy virtual machine)
-.`                                 `/              lazyOSrm (lazy operating system real mode)
+`++:.                           `-/+/    Projects: lVM (lazy virtual machine for NASM x86-16)
+.`                                 `/              lazyOS (lazy operating system based on real mode)
 ```
