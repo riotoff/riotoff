@@ -4,7 +4,7 @@ lfetch                                   bob@arch
                 `ooo/                    OS: Arch Linux x86_64
                `+oooo:`                  Host: A320M-S2H
               -+oooooo+:                 Shell: bash
-           `/++++/+++++++:               WM: bspwm (X11)
+           `/++++/+++++++:               WM: i3 (X11)
          `/+++ooooooooooooo/`            Terminal: alacritty
        .oossssso-````/ossssss+`          CPU: AMD Ryzen 3 2200G (4) @ 3.50 GHz
       -osssssso.      :ssssssso.         GPU: AMD Radeon Vega 8 Graphics [Integrated]
@@ -12,6 +12,6 @@ lfetch                                   bob@arch
     /ossssssss/        +ssssooo/-        Locale: ru_RU
   `/ossssso+/:-        -:/+osssso+-      Langs: C, Netwide Assembly
  `+sso+:-`                 `.-/+oso:     Games: Minecraft, Geometry Dash
-`++:.                           `-/+/    Projects: lVM (lazy virtual machine for NASM x86-16)
-.`                                 `/              lazyOS (lazy operating system based on real mode)
+`++:.                           `-/+/    
+.`                                 `/              
 ```
