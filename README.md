@@ -1,5 +1,5 @@
 ```
-lfetch                                   bob@arch
+fetch                                    bob@arch
                  .o+`                    --------
                 `ooo/                    OS: Arch Linux x86_64
                `+oooo:`                  Host: A320M-S2H
