@@ -10,7 +10,7 @@ fetch                                    bob@arch
       -osssssso.      :ssssssso.         GPU: AMD Radeon Vega 8 Graphics [Integrated]
      :osssssss/        osssso+++.        RAM: 16 (14.58) GiB
     /ossssssss/        +ssssooo/-        Locale: ru_RU
-  `/ossssso+/:-        -:/+osssso+-      Langs: C, Netwide Assembly
+  `/ossssso+/:-        -:/+osssso+-      Fav langs: C, Netwide Assembly
  `+sso+:-`                 `.-/+oso:     Games: Minecraft, Geometry Dash
 `++:.                           `-/+/    
 .`                                 `/              
