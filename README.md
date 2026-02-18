@@ -1,6 +1,6 @@
 ```
-                                      bob@raw
-                                      ----------
+                                 bob@raw
+                                 ----------
     _ __ __ ___      __          OS: Raw/Linux x86_64
    | '__/ _` \ \ /\ / /          Host: A320M-S2H
    | | | (_| |\ V  V /           Shell: bash
