@@ -11,4 +11,9 @@
  Locale: ru_RU
  Langs: C, Netwide Assembly
 ```
-
+```
+me as a dev:
+embedded soft dev (github.com/riotoff/robotUSB)
+backend dev (t.me/barehost_bot, github.com/riotoff/ttygram)
+systems soft dev (github.com/riotoff/hex, github.com/riotoff/raw)
+```
